@@ -20,16 +20,19 @@ export const Footer = () => {
   return (
     <footer>
       <div className="container center">
-        <ul>
+        <div className="icons">
           {icons.map((icon, index) => (
             <li key={index}>
               <img src={icon.url} alt={`Ícone ${index + 1}`} />
             </li>
           ))}
-          <li>
-            <img  className="logo" src={logo} alt={"Logo"} />
-          </li>
-        </ul>
+        </div>
+        <div>
+          <img className="logo" src={logo} alt={"Logo"} />
+        </div>
+        <a href="https://github.com/devnerii"><p>
+            Desenvolvido por Daniel Neri
+            </p></a>
       </div>
     </footer>
   );
