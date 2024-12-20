@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Prata',
+    sans-serif;
+}
+
+h2, h3, h4, h5, h6, p, span, strong, em, b, i, code, pre, kbd, samp, blockquote, 
+ul, ol, li, a, button, label, input, select {
+  font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', sans-serif;
+}
