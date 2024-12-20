@@ -6,6 +6,8 @@ O **Organo** é uma aplicação web desenvolvida durante o curso "[React: Desenv
 
 O Organo permite que os usuários cadastrem colaboradores, especificando nome, cargo, imagem e o time ao qual pertencem. Os colaboradores são exibidos em cartões organizados por times, com cores e destaques personalizados para cada um.
 
+O deploy do projeto está disponível em: [https://organo-daniel-neris-projects.vercel.app/](https://organo-daniel-neris-projects.vercel.app/)
+
 ## Funcionalidades
 
 - **Cadastro de Colaboradores**: Formulário para inserir nome, cargo, URL da imagem e seleção do time.
@@ -59,4 +61,4 @@ O curso "[React: Desenvolvendo com JavaScript](https://www.alura.com.br/curso-on
 
 ## Considerações Finais
 
-Este projeto serve como base para o desenvolvimento de aplicações mais complexas em React, proporcionando uma compreensão sólida dos conceitos fundamentais e das melhores práticas na construção de interfaces reativas.
+Este projeto serve como base para o desenvolvimento de aplicações mais complexas em React, proporcionando uma compreensão sólida dos conceitos fundamentais e das melhores práticas na construção de interfaces reativas. O deploy está disponível para acesso no link: [https://organo-daniel-neris-projects.vercel.app/](https://organo-daniel-neris-projects.vercel.app/)
