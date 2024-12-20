@@ -55,6 +55,7 @@ export const Form = () => {
           onSubmit={(e) => {
             e.preventDefault(); // Evita o comportamento padrão do formulário
             setData((prevData) => [...prevData, form]);
+            setForm({ name: "", role: "", image: "", team: "" });
           }}
         >
           {labels.map((label, index) => (
