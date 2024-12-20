@@ -41,7 +41,6 @@ export const Teams = ({ data }) => {
                   <img src={member.image} alt={member.name} />
                   <h2>{member.name}</h2>
                   <p>{member.role}</p>
-                  <p>{member.team}</p>
                 </div>
               ))}
             </div>
