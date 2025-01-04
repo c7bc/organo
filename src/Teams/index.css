@@ -46,7 +46,7 @@
 }
 
 .container-2 {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: auto;
   display: flex;
   flex-wrap: wrap; /* Permite quebra de linha automática */
